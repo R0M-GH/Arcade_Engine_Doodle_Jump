@@ -29,7 +29,7 @@ How to Win:
 
 ## Link Examples ##
 
-+ https://htmlgames.github.io/htmlgames/differences/jump/index.html(online game of Doodle Jump)
++ https://htmlgames.github.io/htmlgames/differences/jump/index.html (online game of Doodle Jump)
 
 ## Class Design and Brainstorm ##
 
